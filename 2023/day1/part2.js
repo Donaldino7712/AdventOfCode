@@ -2,7 +2,6 @@ import { input } from "./inputData.js"
 let result = 0
 let array = []
 const n = {
-    // 'zero': 0,
     one: 1,
     two: 2,
     three: 3,
